@@ -1,9 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Whereas+recognition+of+the+inherent+dignity&pause=1000&color=F70000&width=435&lines=%D0%9E%D0%B9+%D0%B1%D0%BB-%D1%8F-%D1%8F-%D1%8F-%D1%8F)](https://git.io/typing-svg)
 
+<img height="32" width="32" src="https://user-images.githubusercontent.com/105783276/235910438-e4f69d9f-9582-4c71-a3bc-bbfaf60bafc1.svg" />
+
 <!--
 **TyanVsharfe/TyanVsharfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some i![Uploading spring.svg…]()
+deas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
