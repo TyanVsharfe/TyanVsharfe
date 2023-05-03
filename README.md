@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Whereas+recognition+of+the+inherent+dignity&pause=1000&color=F70000&width=435&lines=%D0%9E%D0%B9+%D0%B1%D0%BB-%D1%8F-%D1%8F-%D1%8F-%D1%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=1000&color=F7F7F7&width=435&lines=%D0%9A%D1%80%D0%B8%D0%BD%D0%B6%D0%B0%D0%BD%D1%83%D0%BB)](https://git.io/typing-svg)
 
 <img height="32" width="32" src="https://user-images.githubusercontent.com/105783276/235911226-99a74da1-f4ed-4daf-b85a-d9c0a883ff65.svg" />
 
