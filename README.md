@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+не+чурка)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Whereas+recognition+of+the+inherent+dignity&pause=1000&color=F70000&width=435&lines=%D0%9E%D0%B9+%D0%B1%D0%BB-%D1%8F-%D1%8F-%D1%8F-%D1%8F)](https://git.io/typing-svg)
 
 <!--
 **TyanVsharfe/TyanVsharfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
